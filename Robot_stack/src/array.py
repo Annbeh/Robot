@@ -6,6 +6,7 @@ Created on 22 Jul 2017
 import unittest
 from src.Stack import stack
 
+#stack creation.
 class TestArrayStack(unittest.TestCase):
 
     def test_get_top(self):
