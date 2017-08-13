@@ -20,6 +20,7 @@ for n in range (0,100, 10):
         s.pushing(i)
 
     start = time.time()
+    #hughu
 
     # Uncomment methods one at a time in order to time them individually.
     #s.is_empty()
